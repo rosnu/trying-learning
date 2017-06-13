@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author marek
- *
- */
-package collect;
